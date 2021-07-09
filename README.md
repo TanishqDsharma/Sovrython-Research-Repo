@@ -1,4 +1,6 @@
 # Increasing TVL
 
 #### What is TVL?
-The most popular metric for DEFI is TVL(Total Value Locked).TVL represents total number of crypto assets locked in various smart contract's.The term locked here doesn't means that the assets are locked for any specfic time but
+TVL stands for (Total Value Locked). To put it simply, total value locked represents the number of assets that are currently being staked in a specific protocol.TVL represents the  total amount of underlying supply that is being secured by a specific application by DeFi completely.
+
+TVL is a metric that is used to measure the overall health of the DEFI and yielding market
