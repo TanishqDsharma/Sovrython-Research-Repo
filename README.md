@@ -16,9 +16,9 @@ The TVL metric is divided into 5 catgories that form bulk of each DEFI applicati
 
 #### The 5 categories are:
 * Lending
-   * Lending is the most popular use case found in the Ethereum DeFi ecosystem. This process allows depositors to lend their valuable assets — such as ETH, WBTC, or LINK — to borrowers, who then collateralize the loans with their own locked assets.
-In lending, the TVL metric is measured by the value of assets deposited into smart contracts by both the lenders and borrowers. Borrowers are then given a “credit line” containing up to 60% of their locked value.
-MakerDAO is the leader in this category, presiding over $1.8B in locked assets that account for 2.39% of the total ETH in circulation and 14% of the total minted WBTC. Borrowers first deposit these assets in order to borrow the DAI stablecoin from the protocol.
+   * Lending is the most popular use case found in the DeFi ecosystem. This process allows depositors to lend their valuable assets — such as ETH, WBTC — to borrowers, who then collateralize the loans with their own locked assets.
+   * In Lending th TVL metric is measured by calculating the value of assets deposited into smart contracts by both lenders and borrowers.
+ 
 * Decentralized Exchanges
 * Derivatives
 * payments
