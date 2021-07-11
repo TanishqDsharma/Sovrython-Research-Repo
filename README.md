@@ -8,7 +8,7 @@ TVL is a metric that is used to measure the overall health of the DEFI and yield
 "DEFI Pulse" made this metric popular during the 2019 bear market.During this period, there was less than $400M locked, and more than 90% of that was concentrated in a single application — MakerDAO. Today, there is over $10.4B of TVL located within the Ethereum DeFi ecosystem.
 
 #### How to calculate TVL?
-TVL(USD) is calculated by taking the balance of each smart contract (excluding instances of double counting) and multiplying them by their price in USD.
+TVL(USD) is calculated by taking the balance of each smart contract (excluding instances of double counting) and multiplying them by their price in USD.However, there is some recent controversy if the governance tokens for the DeFi protocol itself should be counted or not.For this paper, we will take $58 million as the reference TVL for Sovryn.
 
 # DEFI product categories
 
@@ -31,8 +31,4 @@ The TVL metric is divided into 5 catgories that form bulk of each DEFI applicati
 # Why Investors Lock their Assets into a protocol ?
 
 You can imagine people finding best saving account in a bank with the highest APY, the APY's that are given are from 0.1 % APY to less than 3 %.These APY's are very less and now days its even more declining i.e even less APY's on your money from bank. So this makes Investors to go on to a different product that yields more APY.When it comes to DEFI products the returns are insane even upto 100% APY's.These crazy returns encourages the investors to take risk and lock there assets in different DEFI Protocols.
-
-#### Intrest Offering by banks on Savings Account:
-![alt text](https://img.etimg.com/photo/msid-60172261,quality-100/.jpg)
-
-# 
+ 
