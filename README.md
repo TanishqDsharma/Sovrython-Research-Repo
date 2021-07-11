@@ -27,3 +27,12 @@ The TVL metric is divided into 5 catgories that form bulk of each DEFI applicati
    * In payment protocols, TVL is measured by the value of assets deposited into smart contracts that are transferred to the payment protocol’s side-chain or plasma implementation.
 * <b>Assets:</b>
   * TVL in assets is measured by the number of coins that are tokenized. These tokenized assets represent a 1:1 redemption of the underlying asset.
+
+# Why Investors Lock their Assets into a protocol ?
+
+You can imagine people finding best saving account in a bank with the highest APY, the APY's that are given are from 0.1 % APY to less than 3 %.These APY's are very less and now days its even more declining i.e even less APY's on your money from bank. So this makes Investors to go on to a different product that yields more APY.When it comes to DEFI products the returns are insane even upto 100% APY's.These crazy returns encourages the investors to take risk and lock there assets in different DEFI Protocols.
+
+#### Intrest Offering by banks on Savings Account:
+[!alt text]http(https://img.etimg.com/photo/msid-60172261,quality-100/.jpg)
+
+# 
