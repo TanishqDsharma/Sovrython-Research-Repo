@@ -30,5 +30,5 @@ The TVL metric is divided into 5 catgories that form bulk of each DEFI applicati
 
 # Why Investors Lock their Assets into a protocol ?
 
-You can imagine people finding best saving account in a bank with the highest APY, the APY's that are given are from 0.1 % APY to less than 3 %.These APY's are very less and now days its even more declining i.e even less APY's on your money from bank. So this makes Investors to go on to a different product that yields more APY.When it comes to DEFI products the returns are insane even upto 100% APY's.These crazy returns encourages the investors to take risk and lock there assets in different DEFI Protocols.
+You can imagine people finding best saving account in a bank with the highest APY, the APY's that are given are from 0.1% APY to less than 3%.These APY's are very less and now days its even more declining i.e even less APY's on your money from bank. So this makes Investors to go on to a different product that yields more APY.When it comes to DEFI products the returns are insane even upto 100% APY's.These crazy returns encourages the investors to take risk and lock there assets in different DEFI Protocols.
  
