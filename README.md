@@ -16,10 +16,14 @@ The TVL metric is divided into 5 catgories that form bulk of each DEFI applicati
 
 #### The 5 categories are:
 * Lending
-   * Lending is the most popular use case found in the DeFi ecosystem. This process allows depositors to lend their valuable assets — such as ETH, WBTC — to borrowers, who then collateralize the loans with their own locked assets.
+   * Lending is the most popular use case found in the DeFi ecosystem. This process allows depositors to lend their valuable assets such as ETH, WBTC — to borrowers, who then collateralize the loans with their own locked assets.
    * In Lending th TVL metric is measured by calculating the value of assets deposited into smart contracts by both lenders and borrowers.
  
 * Decentralized Exchanges
+    * In DEX's TVL is measured by calculating the value of assets deposited into the exchanges smart-contracts.
 * Derivatives
+    * TVL in derivative protocols is measured by the value of assets deposited into the smart contracts, which provide the backing to synthetic assets and financial contracts. In options trading applications, users can deposit USDC to earn interest when traders buy the spreads in order to hold a position open.
 * payments
+   * In payment protocols, TVL is measured by the value of assets deposited into smart contracts that are transferred to the payment protocol’s side-chain or plasma implementation.
 * Assets
+  * TVL in assets is measured by the number of coins that are tokenized. These tokenized assets represent a 1:1 redemption of the underlying asset.
