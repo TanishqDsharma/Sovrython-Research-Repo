@@ -11,3 +11,12 @@ TVL is a metric that is used to measure the overall health of the DEFI and yield
 TVL(USD) is calculated by taking the balance of each smart contract (excluding instances of double counting) and multiplying them by their price in USD.
 
 #### DEFI product categories
+
+The TVL metric is divided into 5 catgories that form bulk of each DEFI application's.Each category is taken into consideration on how tvl is calculated.
+
+#### The 5 categories are:
+* Lending
+* Decentralized Exchanges
+* Derivatives
+* payments
+* Assets
