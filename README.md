@@ -34,12 +34,12 @@ You can imagine people finding best saving account in a bank with the highest AP
  
 # What Factors can be taken to Increase TVL ?
 
-* Yield Farming: Broadly, yield farming is any effort to put crypto assets to work and generate the most returns possible on those assets.
-  At the simplest level, a yield farmer might move assets around within a DEFI protocol, constantly chasing whichever pool is offering the best APY from week to week. This might   mean moving into riskier pools from time to time, but a yield farmer can handle risk.
+* Yield Farming: 
+  * Broadly, yield farming is any effort to put crypto assets to work and generate the most returns possible on those assets.At the simplest level, a yield farmer might move     assets around within a DEFI protocol, constantly chasing whichever pool is offering the best APY from week to week. This might   mean moving into riskier pools from time to time, but a yield farmer can handle risk.
   
-  In a simple example, a yield farmer might put 100,000 USDT into Sovryn. Stablecoins that are bridged to Sovryn are aggregated and returned as XUSD, enabling Sovryn users to     deposit any compatible stablecoin of their choosing and receive XUSD, which is always convertible 1:1 back to all of the dollar-pegged counterparts.This means one can deposit   USDT (ethereum) -> XUSD, and withdraw XUSD -> BUSD (binance), or any of the aggregated stablecoins.
+  * In a simple example, a yield farmer might put 100,000 USDT into Sovryn. Stablecoins that are bridged to Sovryn are aggregated and returned as XUSD, enabling Sovryn users to     deposit any compatible stablecoin of their choosing and receive XUSD, which is always convertible 1:1 back to all of the dollar-pegged counterparts.This means one can deposit   USDT (ethereum) -> XUSD, and withdraw XUSD -> BUSD (binance), or any of the aggregated stablecoins.
   
-  Now let's say there is a pool XUSD-BTC where the farmer deposits the crypto assets,now what this pool will do that it will allow farmers to enjoy intensive liqudity providers   rewards. The offers can be like "25K SOV will be available to early LPs until 14th June. On 14th June the rewards will be recalibrated. The XUSD-BTC pool will require equal     deposits to both sides of the pool, so you will need to provide both XUSD and BTC at the same time" or offers like "high percentage yields" it will depend pool to pool.
+  * Now let's say there is a pool XUSD-BTC where the farmer deposits the crypto assets,now what this pool will do that it will allow farmers to enjoy intensive liqudity providers   rewards. The offers can be like "25K SOV will be available to early LPs until 14th June. On 14th June the rewards will be recalibrated. The XUSD-BTC pool will require equal     deposits to both sides of the pool, so you will need to provide both XUSD and BTC at the same time" or offers like "high percentage yields" it will depend pool to pool.
   
 * Stablecoins in DEFI:
   When it comes to DeFi, it’s commonly known that lending is currently dominating as the largest sector according to Total Locked Value (TVL). More specifically, the emergence     of stablecoins like DAI and USDC have been the main drivers of this growth.
