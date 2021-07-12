@@ -41,13 +41,12 @@ You can imagine people finding best saving account in a bank with the highest AP
   
   Now let's say there is a pool XUSD-BTC where the farmer deposits the crypto assets,now what this pool will do that it will allow farmers to enjoy intensive liqudity providers   rewards. The offers can be like "25K SOV will be available to early LPs until 14th June. On 14th June the rewards will be recalibrated. The XUSD-BTC pool will require equal     deposits to both sides of the pool, so you will need to provide both XUSD and BTC at the same time" or offers like "high percentage yields" it will depend pool to pool.
   
-  * Stablecoins in DEFI:
-    When it comes to DeFi, it’s commonly known that lending is currently dominating as the largest sector according to Total Locked Value (TVL). More specifically, the emergence     of stablecoins like DAI and USDC have been the main drivers of this growth.
+* Stablecoins in DEFI:
+  When it comes to DeFi, it’s commonly known that lending is currently dominating as the largest sector according to Total Locked Value (TVL). More specifically, the emergence     of stablecoins like DAI and USDC have been the main drivers of this growth.
     
-    The sovryn has XUSD which acts as an aggregator of stablecoins allowing a single representation of the US dollar on Sovryn.
+  The sovryn has XUSD which acts as an aggregator of stablecoins allowing a single representation of the US dollar on Sovryn.
     
-    Adding new stablecoins to the aggregator can significantly increase the TVL, the stablecoins can be added to the aggregator in the order of:
-    
+  Adding new stablecoins to the aggregator can significantly increase the TVL, the stablecoins can be added to the aggregator in the order of:
     1)Paxos Standard ($PAX) – Backed one-to-one by USD deposits and available through Paxos. PAX is available one-to-one in exchange for USD and redeemable one-to-one for USD.         Upon redemption, PAX tokens are immediately removed from the supply; PAX are only in existence when the corresponding dollars are in custody.
     2)TrueUSD ($TUSD) – A USD-backed ERC20 stablecoin that is fully collateralized, legally protected, and transparently verified by third-party attestations. TrueUSD uses              multiple escrow accounts to reduce counterparty risk and to provide token-holders with legal protections against misappropriation. TrueUSD is the first asset token built        on the TrustToken platform.
     3)Gemini Dollar ($GUSD) – Created at the time of withdrawal from the Gemini platform. Gemini customers may exchange US dollars for Gemini dollars at a 1:1 exchange rate by         initiating a withdrawal of Gemini dollars from their Gemini account to any Ethereum address they specify.
