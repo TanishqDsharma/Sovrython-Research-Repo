@@ -134,11 +134,11 @@ Decentralized exchange is a marketplace where transaction occurs directly betwee
 
 # Future Developments That can be done on Sovryn:
 
-1) Non-COLLATERALIZED Stablecoins:
+1) <b>Non-COLLATERALIZED Stablecoins:</b>
    * A non collateralized coin is independent of any other coin even if ether or US Dollar collapse a non-collateralized coin will survive them.
    * It can add up siginificant value to the sovryn ecosystem as all types of stablecoins would then be available on Sovryn and then a mechanism can be built on Sovryn to earn with these stablecoins.
 
-2) Synthetic Tokens:
+2) <b>Synthetic Tokens:</b>
    * A synthetic asset is something that derives its value from something else.Synthetic tokens makes tokenizing and trading anything a reality and if it is implemented on Sovryn then the Sovryn users would be able to trade anything for anything.
    * Example: 
      * Imagine a synthetic asset token that tracks corporate co2 emissions in an industrial zone.When emissions rise, token holders (these may be locals living nearby, city officials, and outside speculators) profit as the companies issue co2 tokens. However, when emissions decrease, the companies profit by retaining tokens, incentivizing them to continually reduce co2 emissions.
