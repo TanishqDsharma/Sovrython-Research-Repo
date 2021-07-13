@@ -62,5 +62,8 @@ Intrest Rates Provided by Sovryn:
   
   * Now let's say there is a pool XUSD-BTC where the farmer deposits the crypto assets,now what this pool will do that it will allow farmers to enjoy intensive liqudity providers   rewards. The offers can be like "25K SOV will be available to early LPs until 14th June. On 14th June the rewards will be recalibrated. The XUSD-BTC pool will require equal     deposits to both sides of the pool, so you will need to provide both XUSD and BTC at the same time" or offers like "high percentage yields" it will depend pool to pool.
   
-* <b>ASSETS:</b>
-  * 
+  * So on sovryn, liquidity providers (LPs) lock their assets in a pool to provide liquidity in return for LP tokens(a representation and receipt of their share within the pool). Fees are generated for the asset they providing liquidity for. example: a trade of USDT to BTC generates a fee amount in BTC. This fee is distributed between liquidity providers as a reward, in exchange for their service.
+  
+* <b>Lending:</b>
+  * Sovryn allows you to earn a passive income through lending, when you are holding your assets for long-terms this is great way to earn intrests on them.In the lend section of the sovryn trading platform you can lend your assets directly to borrowers and receive intrest for lending.The intrest APR is the percentage that you can expect to gain annually for your assets and it can change according to the demand and supply in the market.
+
