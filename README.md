@@ -3,19 +3,12 @@
 <h1> Research: Increasing TVL on Sovryn </h1>
 </div>
 
-# Index:
-   1) What is TVL?
-   2) How to calculate TVL?
-   3) DEFI product categories
-   4) Why Investors Lock their Assets into a protocol ?
-   5) What will cause TVL to go up on Sovryn?
-      * Yield Farming
-      * Lending
-      * How lending and yield farming will cause to tvl to go up on sovryn?
-      * Stablecoins
-      * How Stablecoins will cause TVL to go up on Sovryn?
+# Introduction:
 
-# What is TVL?
+This document is intended to provide ways by which TVL can be increased on Sovryn Trading Platform in near future.
+
+
+# About TVL(TOTAL VALUE LOCKED)
 TVL stands for (Total Value Locked). To put it simply, total value locked represents the number of assets that are currently being staked in a specific protocol.TVL represents the  total amount of underlying supply that is being secured by a specific application by DeFi completely.
 
 TVL is a metric that is used to measure the overall health of the DEFI and yielding market
@@ -51,15 +44,15 @@ The TVL metric is divided into 5 catgories that form bulk of each DEFI applicati
 
 You can imagine people finding best saving account in a bank with the highest APY, the APY's that are given are from 0.1% APY to less than 3%.These APY's are very less and now days its even more declining i.e even less APY's on your money from bank. So this makes Investors to go on to a different product that yields more APY.When it comes to DEFI products the returns are insane even upto 100% APY's.These crazy returns encourages the investors to take risk and lock there assets in different DEFI Protocols. 
 
-Intrest Rates Provided by banks:
+<b><u>Intrest Rates Provided by banks:</b></u>
 
 ![alt text](https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/bank-interest-rates-vs-credit-union-interest-rates.jpg)
 
-Intrest Rates Provided by Defi protocols:
+<b><u>Intrest Rates Provided by Defi protocols:</b></u>
 
 ![alt text](https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/Selection_071-263x300.jpg)
 
-Intrest Rates Provided by Sovryn:
+<b><u>Intrest Rates Provided by Sovryn:</b></u>
 
 ![alt text](https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/2021-07-13%2014_23_59-Films%20%26%20TV.png)
  
@@ -77,7 +70,7 @@ Intrest Rates Provided by Sovryn:
   
   * Now let's say there is a pool XUSD-BTC where the farmer deposits the crypto assets,now what this pool will do that it will allow farmers to enjoy intensive liqudity providers   rewards. The offers can be like "25K SOV will be available to early LPs until 14th June. On 14th June the rewards will be recalibrated. The XUSD-BTC pool will require equal     deposits to both sides of the pool, so you will need to provide both XUSD and BTC at the same time" or offers like "high percentage yields" it will depend pool to pool.
   
-  * So on sovryn, liquidity providers (LPs) lock their assets in a pool to provide liquidity in return for LP tokens(a representation and receipt of their share within the pool). Fees are generated for the asset they providing liquidity for. example: a trade of USDT to BTC generates a fee amount in BTC. This fee is distributed between liquidity providers as a reward, in exchange for their service.
+  * On sovryn, liquidity providers (LPs) lock their assets in a pool to provide liquidity in return for LP tokens(a representation and receipt of their share within the pool). Fees are generated for the asset they providing liquidity for. example: a trade of USDT to BTC generates a fee amount in BTC. This fee is distributed between liquidity providers as a reward, in exchange for their service.
   
 ## <b>Lending:</b>
   * Sovryn allows you to earn a passive income through lending, when you are holding your assets for long-terms this is great way to earn intrests on them.In the lend section of the sovryn trading platform you can lend your assets directly to borrowers and receive intrest for lending.The intrest APR is the percentage that you can expect to gain annually for your assets and it can change according to the demand and supply in the market.The SOVRYN Protocol collects and retains 10% of the interest for the insurance fund, which exists to protect lenders from any potential loan defaults.
@@ -94,19 +87,19 @@ Intrest Rates Provided by Sovryn:
 ## <b>Stablecoins:</b>
 * Sovryn has XUSD which act as aggregator for stablecoins allowing a single representation of the US dollar on sovryn.XUSD, in its current form, is a precursor (technical preview) of the Babelfish stablecoin aggregator.It facilitates the conversion of multiple USD-pegged stablecoins with each other at a fixed 1:1 ratio.
 
-* The list of convertible stablecoins:
+* <b><u>The list of convertible stablecoins:</b></u>
   * DAI
   * USDT
   * USDC
   * BUSD
 
-* The other stablecoins that can be added to the aggregator are:
+* <b><u>The other stablecoins that can be added to the aggregator are:</b></u>
  
-  * Paxos Standard ($PAX) – Backed one-to-one by USD deposits and available through Paxos. PAX is available one-to-one in exchange for USD and redeemable one-to-one for USD. Upon redemption, PAX tokens are immediately removed from the supply; PAX are only in existence when the corresponding dollars are in custody.
+  * <b>Paxos Standard ($PAX)</b> – Backed one-to-one by USD deposits and available through Paxos. PAX is available one-to-one in exchange for USD and redeemable one-to-one for USD. Upon redemption, PAX tokens are immediately removed from the supply; PAX are only in existence when the corresponding dollars are in custody.
 
-  * TrueUSD ($TUSD) – A USD-backed ERC20 stablecoin that is fully collateralized, legally protected, and transparently verified by third-party attestations. TrueUSD uses multiple escrow accounts to reduce counterparty risk and to provide token-holders with legal protections against misappropriation. TrueUSD is the first asset token built on the TrustToken platform.
+  * <b>TrueUSD ($TUSD)</b> – A USD-backed ERC20 stablecoin that is fully collateralized, legally protected, and transparently verified by third-party attestations. TrueUSD uses multiple escrow accounts to reduce counterparty risk and to provide token-holders with legal protections against misappropriation. TrueUSD is the first asset token built on the TrustToken platform.
 
-  * Gemini Dollar ($GUSD) – Created at the time of withdrawal from the Gemini platform. Gemini customers may exchange US dollars for Gemini dollars at a 1:1 exchange rate by initiating a withdrawal of Gemini dollars from their Gemini account to any Ethereum address they specify
+  * <b>Gemini Dollar ($GUSD)</b> – Created at the time of withdrawal from the Gemini platform. Gemini customers may exchange US dollars for Gemini dollars at a 1:1 exchange rate by initiating a withdrawal of Gemini dollars from their Gemini account to any Ethereum address they specify
  
 # How Stablecoins will cause TVL to go up on Sovryn?
 
@@ -137,5 +130,39 @@ Decentralized exchange is a marketplace where transaction occurs directly betwee
 # How Decentralized Exchange Can help in Increasing TVL on Sovryn?
   
   As we know, In DEX's TVL is measured by calculating the value of assets deposited into the exchanges smart-contracts.To increase the TVL on Sovryn more users should be willing to use the Sovryn Trade Platform and deposit there crypto assets into it.For this to happen the Sovryn dApp has to gain popularity and trust of the users.The trust of the users can be earned by helping new users out on how to use the Sovryn Platform , Offering something (like some sov token very less amount would be fine just to get the users started with the exchange as they join the platform and some other measures that can be taken to earn the trust of the user. As the more user will use the dapp the more the dapp will gain popularity and trust in the crypto industry.As a result more users will be willing to deposit there crypto assets which will result in Increase in TVL.
+
+
+# Future Developments That can be done on Sovryn:
+
+1) Non-COLLATERALIZED Stablecoins:
+   * A non collateralized coin is independent of any other coin even if ether or US Dollar collapse a non-collateralized coin will survive them.
+   * It can add up siginificant value to the sovryn ecosystem as all types of stablecoins would then be available on Sovryn and then a mechanism can be built on Sovryn to earn with these stablecoins.
+
+2) Synthetic Tokens:
+   * A synthetic asset is something that derives its value from something else.Synthetic tokens makes tokenizing and trading anything a reality and if it is implemented on Sovryn then the Sovryn users would be able to trade anything for anything.
+   * Example: 
+     * Imagine a synthetic asset token that tracks corporate co2 emissions in an industrial zone.When emissions rise, token holders (these may be locals living nearby, city officials, and outside speculators) profit as the companies issue co2 tokens. However, when emissions decrease, the companies profit by retaining tokens, incentivizing them to continually reduce co2 emissions.
+
+# Conclusion:
+
+This document decribes the ways to increase TVL on Sovryn in near future, gives understaning of TVL, how its calculated and different DEFI product categories.I hope my research would help the sovryn ecosystem in some way.
+  
+# References:
+
+1) https://defipulse.com/
+2) https://github.com/DistributedCollective/
+3) https://medium.com/multi-io/defi-explained-the-tvl-metric-99187587f8f0
+4) https://messari.io/article/how-to-interpret-total-value-locked-tvl-in-defi
+5) https://dyor-crypto.fandom.com/wiki/Total_Locked_Value_(TLV)#:~:text=TVL(USD)%20is%20calculated%20by,has%20been%20levied%20against%20defi.
+6) https://academy.binance.com/en/articles/7-indicators-every-defi-investor-should-know
+7) https://coinmarketcap.com/alexandria/glossary/total-value-locked-tvl
+8) https://tokeninsight.medium.com/lending-is-the-top-defi-use-case-850-million-tvl-with-76-based-on-ethereum-2019-defi-c1481f7a5b66
+9) https://defirate.com/stablecoins/
+10) https://coincodex.com/cryptocurrencies/sector/stablecoins/
+11) https://wiki.sovryn.app/en/technical-documents/xusd-overview
+12) https://wiki.sovryn.app/en/sovryn-dapp/lending#sov-loot-drops-on-lending-p
+13) https://wiki.sovryn.app/en/sovryn-dapp/market-making
+14) https://wiki.sovryn.app/en/sovryn-dapp/borrowing
+15) https://www.coindesk.com/what-are-stablecoins
 
 
