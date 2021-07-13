@@ -65,5 +65,24 @@ Intrest Rates Provided by Sovryn:
   * So on sovryn, liquidity providers (LPs) lock their assets in a pool to provide liquidity in return for LP tokens(a representation and receipt of their share within the pool). Fees are generated for the asset they providing liquidity for. example: a trade of USDT to BTC generates a fee amount in BTC. This fee is distributed between liquidity providers as a reward, in exchange for their service.
   
 ## <b>Lending:</b>
-  * Sovryn allows you to earn a passive income through lending, when you are holding your assets for long-terms this is great way to earn intrests on them.In the lend section of the sovryn trading platform you can lend your assets directly to borrowers and receive intrest for lending.The intrest APR is the percentage that you can expect to gain annually for your assets and it can change according to the demand and supply in the market.
+  * Sovryn allows you to earn a passive income through lending, when you are holding your assets for long-terms this is great way to earn intrests on them.In the lend section of the sovryn trading platform you can lend your assets directly to borrowers and receive intrest for lending.The intrest APR is the percentage that you can expect to gain annually for your assets and it can change according to the demand and supply in the market.The SOVRYN Protocol collects and retains 10% of the interest for the insurance fund, which exists to protect lenders from any potential loan defaults.
+
+## <b>Stablecoins:</b>
+* Sovryn has XUSD which act as aggregator for stablecoins allowing a single representation of the US dollar on sovryn.XUSD, in its current form, is a precursor (technical preview) of the Babelfish stablecoin aggregator.It facilitates the conversion of multiple USD-pegged stablecoins with each other at a fixed 1:1 ratio.
+
+* The list of convertible stablecoins:
+  * DAI
+  * USDT
+  * USDC
+  * BUSD
+
+* The other stablecoins that can be added to the aggregator are:
+* 
+  * Paxos Standard ($PAX) – Backed one-to-one by USD deposits and available through Paxos. PAX is available one-to-one in exchange for USD and redeemable one-to-one for USD. Upon redemption, PAX tokens are immediately removed from the supply; PAX are only in existence when the corresponding dollars are in custody.
+
+  * TrueUSD ($TUSD) – A USD-backed ERC20 stablecoin that is fully collateralized, legally protected, and transparently verified by third-party attestations. TrueUSD uses multiple escrow accounts to reduce counterparty risk and to provide token-holders with legal protections against misappropriation. TrueUSD is the first asset token built on the TrustToken platform.
+
+  * Gemini Dollar ($GUSD) – Created at the time of withdrawal from the Gemini platform. Gemini customers may exchange US dollars for Gemini dollars at a 1:1 exchange rate by initiating a withdrawal of Gemini dollars from their Gemini account to any Ethereum address they specify.
+
+
 
