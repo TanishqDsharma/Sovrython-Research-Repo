@@ -1,4 +1,8 @@
-<div align="center"><h1>Research: Increasing TVL on Sovryn<h1></div>
+
+<div align="center">
+<h1> Research: Increasing TVL on Sovryn </h1>
+</div>
+
 # Index:
    1) What is TVL?
    2) How to calculate TVL?
@@ -10,12 +14,6 @@
       * How lending and yield farming will cause to tvl to go up on sovryn?
       * Stablecoins
       * How Stablecoins will cause TVL to go up on Sovryn?
-
-
-  
-  
-
- 
 
 # What is TVL?
 TVL stands for (Total Value Locked). To put it simply, total value locked represents the number of assets that are currently being staked in a specific protocol.TVL represents the  total amount of underlying supply that is being secured by a specific application by DeFi completely.
@@ -132,5 +130,12 @@ Intrest Rates Provided by Sovryn:
   * The Gemini Dollar is designed to provide a transparent regulatory connection between traditional financial systems and the cryptocurrency industry as a whole
   * It will also result in increase in TVL as user holding Gusd would be attracted to Sovryn platform and they will get their token converted to XUSD and enjoy the sovryn Platform.   
 
+
+## DEXES : 
+Decentralized exchange is a marketplace where transaction occurs directly between crypto traders. DEXES are also a factor which can be responsible for TVL.As of date 13-07-2021 Curve DEX has the highest TVL when compared with othe DEXES.
+
+# How Decentralized Exchange Can help in Increasing TVL on Sovryn?
+  
+  As we know, In DEX's TVL is measured by calculating the value of assets deposited into the exchanges smart-contracts.To increase the TVL on Sovryn more users should be willing to use the Sovryn Trade Platform and deposit there crypto assets into it.For this to happen the Sovryn dApp has to gain popularity and trust of the users.The trust of the users can be earned by helping new users out on how to use the Sovryn Platform , Offering something (like some sov token very less amount would be fine just to get the users started with the exchange as they join the platform and some other measures that can be taken to earn the trust of the user. As the more user will use the dapp the more the dapp will gain popularity and trust in the crypto industry.As a result more users will be willing to deposit there crypto assets which will result in Increase in TVL.
 
 
