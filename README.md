@@ -77,7 +77,7 @@ Intrest Rates Provided by Sovryn:
   * BUSD
 
 * The other stablecoins that can be added to the aggregator are:
-* 
+ 
   * Paxos Standard ($PAX) – Backed one-to-one by USD deposits and available through Paxos. PAX is available one-to-one in exchange for USD and redeemable one-to-one for USD. Upon redemption, PAX tokens are immediately removed from the supply; PAX are only in existence when the corresponding dollars are in custody.
 
   * TrueUSD ($TUSD) – A USD-backed ERC20 stablecoin that is fully collateralized, legally protected, and transparently verified by third-party attestations. TrueUSD uses multiple escrow accounts to reduce counterparty risk and to provide token-holders with legal protections against misappropriation. TrueUSD is the first asset token built on the TrustToken platform.
