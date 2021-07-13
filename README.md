@@ -67,13 +67,14 @@ Intrest Rates Provided by Sovryn:
 ## <b>Lending:</b>
   * Sovryn allows you to earn a passive income through lending, when you are holding your assets for long-terms this is great way to earn intrests on them.In the lend section of the sovryn trading platform you can lend your assets directly to borrowers and receive intrest for lending.The intrest APR is the percentage that you can expect to gain annually for your assets and it can change according to the demand and supply in the market.The SOVRYN Protocol collects and retains 10% of the interest for the insurance fund, which exists to protect lenders from any potential loan defaults.
 
-Yields on Sovryn could attract users from other DeFi lending applications when the kinked interest rate becomes active and lending yields are driven to triple digits or higher in the underlying token with no risk of Impermanent Loss — an extremely attractive prospect. In other words, when lending and borrowing is high, Sovryn yields can become very high and more users will tend to add their funds to the Sovryn dApp.If Sovryn can provide a way that minimizes the losses and maximizes the yields more users will tend to add their fund to sovryn dapp.Moreover , if the yields on sovryn dApp is more attractive and high when compared to yields provided by other dApp protocols user's are willing to take the risk as the end goal of the investor/trader/user is to generate maximum return on their capital and for this they are willing to take higher risks. 
+# How lending and yield farming will cause to tvl to go up on sovryn?
+* Yields on Sovryn could attract users from other DeFi lending applications when the kinked interest rate becomes active and lending yields are driven to triple digits or higher in the underlying token with no risk of Impermanent Loss — an extremely attractive prospect. In other words, when lending and borrowing is high, Sovryn yields can become very high and more users will tend to add their funds to the Sovryn dApp.If Sovryn can provide a way that minimizes the losses and maximizes the yields more users will tend to add their fund to sovryn dapp.Moreover , if the yields on sovryn dApp is more attractive and high when compared to yields provided by other dApp protocols user's are willing to take the risk as the end goal of the investor/trader/user is to generate maximum return on their capital and for this they are willing to take higher risks. 
 
-This in and of itself is likely to bring more users to Sovryn, and when users deposit more assets to Sovryn to be borrowed, TVL is increased.
+* This in and of itself is likely to bring more users to Sovryn, and when users deposit more assets to Sovryn to be borrowed, TVL is increased.
 
-Similarly, as more pools are added to Sovryn, more users with crypto assets may be incentivized to deposit them for additional yield. An increase in TVL and decrease in the relative utilization rates of each Sovryn lending pool leads to a constantly calibrated equilibrium in the lending rate.
+* Similarly, as more pools are added to Sovryn, more users with crypto assets may be incentivized to deposit them for additional yield. An increase in TVL and decrease in the relative utilization rates of each Sovryn lending pool leads to a constantly calibrated equilibrium in the lending rate.
 
-Yield Farmers can derive TVL growth on Sovryn. As borrowing rates are brought back to equilibrium from an increase in TVL, yield farmers will be more likely to farm crypto assets due to the higher yields, thus leading to further increases in TVL. In this way, the prior simple assumption can be applied to Sovryn as well: an increase in TVL on Sovryn is attributable to increased popularity, usability, and liquidity.
+* Yield Farmers can derive TVL growth on Sovryn. As borrowing rates are brought back to equilibrium from an increase in TVL, yield farmers will be more likely to farm crypto assets due to the higher yields, thus leading to further increases in TVL. In this way, the prior simple assumption can be applied to Sovryn as well: an increase in TVL on Sovryn is attributable to increased popularity, usability, and liquidity.
 
 ## <b>Stablecoins:</b>
 * Sovryn has XUSD which act as aggregator for stablecoins allowing a single representation of the US dollar on sovryn.XUSD, in its current form, is a precursor (technical preview) of the Babelfish stablecoin aggregator.It facilitates the conversion of multiple USD-pegged stablecoins with each other at a fixed 1:1 ratio.
@@ -91,3 +92,7 @@ Yield Farmers can derive TVL growth on Sovryn. As borrowing rates are brought ba
   * TrueUSD ($TUSD) – A USD-backed ERC20 stablecoin that is fully collateralized, legally protected, and transparently verified by third-party attestations. TrueUSD uses multiple escrow accounts to reduce counterparty risk and to provide token-holders with legal protections against misappropriation. TrueUSD is the first asset token built on the TrustToken platform.
 
   * Gemini Dollar ($GUSD) – Created at the time of withdrawal from the Gemini platform. Gemini customers may exchange US dollars for Gemini dollars at a 1:1 exchange rate by initiating a withdrawal of Gemini dollars from their Gemini account to any Ethereum address they specify
+ 
+# How Stablecoins will cause TVL to go up on Sovryn?
+
+Stablecoins will continue to grow while
