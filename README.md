@@ -7,7 +7,7 @@ TVL is a metric that is used to measure the overall health of the DEFI and yield
 
 "DEFI Pulse" made this metric popular during the 2019 bear market.During this period, there was less than $400M locked, and more than 90% of that was concentrated in a single application — MakerDAO. Today, there is over $10.4B of TVL located within the Ethereum DeFi ecosystem.
 
-[! alt text](https://github.com/TanishqDsharma/Sovrython-Research-Repo/tree/main/images)
+[!alt text](https://github.com/TanishqDsharma/Sovrython-Research-Repo/tree/main/images)
 
 # How to calculate TVL?
 TVL(USD) is calculated by taking the balance of each smart contract (excluding instances of double counting) and multiplying them by their price in USD.However, there is some recent controversy if the governance tokens for the DeFi protocol itself should be counted or not.For this paper, we will take $58 million as the reference TVL for Sovryn.
