@@ -52,7 +52,7 @@ Intrest Rates Provided by Sovryn:
 
 * Yield Farming:
 <p align="center">
-    <img align="center" src="https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/download.jpg">
+    <img style="border-color:black;" align="center" src="https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/download.jpg">
 </p>
 
  
