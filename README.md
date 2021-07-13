@@ -1,4 +1,22 @@
-# Increasing TVL
+<center><h1>Research: Increasing TVL on Sovryn<h1></center>
+
+#Index:
+  1) What is TVL?
+  2) How to calculate TVL?
+  3) DEFI product categories
+  4) Why Investors Lock their Assets into a protocol ?
+  5) What will cause TVL to go up on Sovryn?
+     * Yield Farming
+     * Lending
+     * How lending and yield farming will cause to tvl to go up on sovryn?
+     * Stablecoins
+     * How Stablecoins will cause TVL to go up on Sovryn?
+
+
+  
+  
+
+ 
 
 # What is TVL?
 TVL stands for (Total Value Locked). To put it simply, total value locked represents the number of assets that are currently being staked in a specific protocol.TVL represents the  total amount of underlying supply that is being secured by a specific application by DeFi completely.
@@ -48,7 +66,7 @@ Intrest Rates Provided by Sovryn:
 
 ![alt text](https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/2021-07-13%2014_23_59-Films%20%26%20TV.png)
  
-# What will cause TVL to go up on Sovryn:
+# What will cause TVL to go up on Sovryn?
 
 ## <b>Yield Farming:</b>
 <p align="center">
