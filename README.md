@@ -1,16 +1,16 @@
-<center><h1>Research: Increasing TVL on Sovryn<h1></center>
+<div align="center"><h1>Research: Increasing TVL on Sovryn<h1></div>
 
-#Index:
-  1) What is TVL?
-  2) How to calculate TVL?
-  3) DEFI product categories
-  4) Why Investors Lock their Assets into a protocol ?
-  5) What will cause TVL to go up on Sovryn?
-     * Yield Farming
-     * Lending
-     * How lending and yield farming will cause to tvl to go up on sovryn?
-     * Stablecoins
-     * How Stablecoins will cause TVL to go up on Sovryn?
+# Index:
+   1) What is TVL?
+   2) How to calculate TVL?
+   3) DEFI product categories
+   4) Why Investors Lock their Assets into a protocol ?
+   5) What will cause TVL to go up on Sovryn?
+      * Yield Farming
+      * Lending
+      * How lending and yield farming will cause to tvl to go up on sovryn?
+      * Stablecoins
+      * How Stablecoins will cause TVL to go up on Sovryn?
 
 
   
