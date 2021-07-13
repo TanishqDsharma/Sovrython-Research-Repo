@@ -18,7 +18,7 @@ The TVL metric is divided into 5 catgories that form bulk of each DEFI applicati
 
 ![alt text](https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/defi2.png)
 
-#### The 5 categories are:
+## The 5 categories are:
 * <b>Lending:</b>
    * Lending is the most popular use case found in the DeFi ecosystem. This process allows depositors to lend their valuable assets such as ETH, WBTC — to borrowers, who then collateralize the loans with their own locked assets.
    * In Lending th TVL metric is measured by calculating the value of assets deposited into smart contracts by both lenders and borrowers.
@@ -48,9 +48,9 @@ Intrest Rates Provided by Sovryn:
 
 ![alt text](https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/2021-07-13%2014_23_59-Films%20%26%20TV.png)
  
-# Ways To increase TVL on Sovryn:
+# Factors that can be taken into consideration for increasing TVL on Sovryn:
 
-* Yield Farming:
+* <b>Yield Farming:</b>
 <p align="center">
     <img style="border-color:black;" align="center" src="https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/download.jpg">
 </p>
@@ -62,5 +62,5 @@ Intrest Rates Provided by Sovryn:
   
   * Now let's say there is a pool XUSD-BTC where the farmer deposits the crypto assets,now what this pool will do that it will allow farmers to enjoy intensive liqudity providers   rewards. The offers can be like "25K SOV will be available to early LPs until 14th June. On 14th June the rewards will be recalibrated. The XUSD-BTC pool will require equal     deposits to both sides of the pool, so you will need to provide both XUSD and BTC at the same time" or offers like "high percentage yields" it will depend pool to pool.
   
-* DEX:
+* <b>ASSETS:</b>
   * 
