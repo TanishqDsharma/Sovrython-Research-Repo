@@ -52,7 +52,7 @@ Intrest Rates Provided by Sovryn:
 
 * Yield Farming:
   
-  <center><img src="https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/download.jpg"></center>
+<img align="center" src="https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/download.jpg">
 
  
   * Broadly, yield farming is any effort to put crypto assets to work and generate the most returns possible on those assets.At the simplest level, a yield farmer might move     assets around within a DEFI protocol, constantly chasing whichever pool is offering the best APY from week to week. This might   mean moving into riskier pools from time to time, but a yield farmer can handle risk.
