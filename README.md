@@ -95,4 +95,25 @@ Intrest Rates Provided by Sovryn:
  
 # How Stablecoins will cause TVL to go up on Sovryn?
 
-Stablecoins will continue to grow while
+* Stablecoins will continue to grow and connecting the cryptocurrency industry and traditional finance to bring a much wider adoption.I will discuss about each stable coin that should be implemented to the aggregator.Right now the Sovryn allowd 4 stablecoins to be aggregated.If Sovryn allows aggregation of more stablecoins not only it will help the sovryn by increasing its TVL but it also allows more adoption of the sovryn platform.
+
+* Lets take an example there is a user holding 100000 USDT the user can easily convert that amount to XUSD with 1:1 ratio , but if the user is having 100000 TUSD the user first needs to convert it to USDT then to XUSD so it will be a hassle for the user and the user might give up on the idea of converting the TUSD to XUSD as the user first needs to convert TUSD to USDT.But if the aggregator allows the direct conversion of TUSD to XUSD then the user will happily do it.
+
+* Why Sovryn should Implement TrueUSD ?
+
+  1)TrueUSD aims to balance stability and utility — the main use cases of any stablecoin — with security in the form of regular attestations.
+  2)As such, the stablecoin’s appeal is geared towards larger investors looking to reduce risk, in addition to smaller private traders.TrustToken describes TUSD as “the first regulated stablecoin fully backed by the US Dollar.”
+  3)It will also result in increase in TVL as user holding TUSD would be attracted to Sovryn platform and they will get their token converted to XUSD and enjoy the sovryn Platform.
+
+* Why Sovryn should Implement Paxos Standard ?
+  1)The Paxos Standard is a stablecoin that allows any user to exchange U.S. dollars for the Paxos Standard Tokens. Its main goal is to stabilize the dollar with blockchain technology.
+  2)The Paxos company has a charter from the New York State Department of Financial Services that allows them to offer regulated services within the crypto asset world. The token itself is backed by the USD in accounts that are held by the company at the U.S. depository institutions.
+  3)It will also result in increase in TVL as user holding Paxos Standard would be attracted to Sovryn platform and they will get their token converted to XUSD and enjoy the sovryn Platform.   
+
+* Why Sovryn should Implement GeminiUSD ?
+  1)Gemini Dollar is the first U.S Dollar to get backing from U.S regulatory body.It's an ERC-20 Token built on ethereum
+  2)The Gemini Dollar is designed to provide a transparent regulatory connection between traditional financial systems and the cryptocurrency industry as a whole
+  3)It will also result in increase in TVL as user holding Gusd would be attracted to Sovryn platform and they will get their token converted to XUSD and enjoy the sovryn Platform.   
+
+
+
