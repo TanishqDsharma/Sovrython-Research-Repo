@@ -50,7 +50,7 @@ Intrest Rates Provided by Sovryn:
  
 # Factors that can be taken into consideration for increasing TVL on Sovryn:
 
-* <b>Yield Farming:</b>
+## <b>Yield Farming:</b>
 <p align="center">
     <img style="border-color:black;" align="center" src="https://github.com/TanishqDsharma/Sovrython-Research-Repo/blob/main/images/download.jpg">
 </p>
@@ -64,6 +64,6 @@ Intrest Rates Provided by Sovryn:
   
   * So on sovryn, liquidity providers (LPs) lock their assets in a pool to provide liquidity in return for LP tokens(a representation and receipt of their share within the pool). Fees are generated for the asset they providing liquidity for. example: a trade of USDT to BTC generates a fee amount in BTC. This fee is distributed between liquidity providers as a reward, in exchange for their service.
   
-* <b>Lending:</b>
+## <b>Lending:</b>
   * Sovryn allows you to earn a passive income through lending, when you are holding your assets for long-terms this is great way to earn intrests on them.In the lend section of the sovryn trading platform you can lend your assets directly to borrowers and receive intrest for lending.The intrest APR is the percentage that you can expect to gain annually for your assets and it can change according to the demand and supply in the market.
 
