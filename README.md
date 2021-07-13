@@ -1,5 +1,4 @@
 <div align="center"><h1>Research: Increasing TVL on Sovryn<h1></div>
-
 # Index:
    1) What is TVL?
    2) How to calculate TVL?
